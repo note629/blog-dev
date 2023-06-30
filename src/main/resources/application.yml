@@ -14,3 +14,6 @@ spring:
   h2:
     console:
       enabled: true
+  jwt:
+    issuer: 123@gmail.com
+    secret_key: 123
